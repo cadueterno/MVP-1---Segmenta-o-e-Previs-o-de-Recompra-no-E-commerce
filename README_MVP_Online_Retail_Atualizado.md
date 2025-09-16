@@ -52,21 +52,6 @@ As principais bibliotecas e ferramentas utilizadas foram:
 
 ---
 
-## **Como Rodar o Notebook**
-### **Passo 1 – Abrir no Google Colab**
-1. Acesse o link do notebook no GitHub.  
-2. Substitua a URL pelo formato abaixo para abrir direto no Colab:
-
-```
-https://colab.research.google.com/github/SEU-USUARIO/mvp-online-retail/blob/main/online_retail_mvp_v2.ipynb
-```
-
-> **Exemplo:**  
-> Se o GitHub estiver assim:  
-> `https://github.com/carlosedu/mvp-online-retail/blob/main/online_retail_mvp_v2.ipynb`  
-> No Colab será:  
-> `https://colab.research.google.com/github/carlosedu/mvp-online-retail/blob/main/online_retail_mvp_v2.ipynb`
-
 ### **Passo 2 – Executar todas as células**
 1. No Colab, vá em **Ambiente de execução → Executar tudo**.  
 2. A primeira célula instala todas as dependências necessárias automaticamente.  
