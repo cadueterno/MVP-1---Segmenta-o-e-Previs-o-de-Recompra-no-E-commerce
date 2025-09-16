@@ -52,13 +52,6 @@ As principais bibliotecas e ferramentas utilizadas foram:
 
 ---
 
-### **Passo 2 – Executar todas as células**
-1. No Colab, vá em **Ambiente de execução → Executar tudo**.  
-2. A primeira célula instala todas as dependências necessárias automaticamente.  
-3. Os dados serão baixados diretamente do **UCI Machine Learning Repository**, sem necessidade de upload manual.
-
----
-
 ## **Etapas Desenvolvidas**
 O projeto seguiu as melhores práticas de ciência de dados, com as seguintes etapas:
 
